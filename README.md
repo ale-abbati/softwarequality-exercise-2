@@ -25,4 +25,4 @@ or enable the MetricsTree in the bar at the left of the screen.
 
 
 ## License
-This project is licensed under the MIT license. See LICENSE file contained in the root folder for more information.
+This project is licensed under the MIT license. See files in the LICENSE directory and annotations in each code class.
