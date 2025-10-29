@@ -1,3 +1,8 @@
+// SPDX-FileCopyrightText: 2025 Copyright © Alessandro Abbati
+//
+// SPDX-License-Identifier: MIT
+
+
 package org.example;
 
 public class MyMaths {
