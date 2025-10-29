@@ -21,7 +21,7 @@ public class StackTest {
 
         // fill up entire stack with elements
         for(int i = 1; i <= 3; i++){
-            stack.push(i); stack.
+            stack.push(i);
         }
     }
 
