@@ -6,7 +6,13 @@
 package org.example;
 
 public class MyMaths {
-	
+
+	/**
+	 * Calculates the greatest common divisor of two numbers m and n.
+	 * @param m First number
+	 * @param n Second number
+	 * @return Greatest common divisor of numbers m and n.
+	 */
 	public int gcd(int m, int n) {
 		
 		int r;
@@ -25,5 +31,4 @@ public class MyMaths {
 
 		return n;
 	}
-	
 }

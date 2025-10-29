@@ -12,9 +12,7 @@ public class MyMathsTest {
     private MyMaths maths;
 
     @Before
-    public void setUp(){
-        maths = new MyMaths();
-    }
+    public void setUp(){ maths = new MyMaths(); }
 
     @Test
     public void testGcdStatementCoverage(){
